@@ -1,4 +1,4 @@
-![my readme stats](https://github-readme-stats.vercel.app/api?username=wq-yang?count_private=true)
+![my readme stats](https://github-readme-stats.vercel.app/api?username=wq-yang&count_private=true)
 
 <!--
 **wq-yang/wq-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
